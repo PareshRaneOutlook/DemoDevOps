@@ -7,7 +7,9 @@ git config --global user.email "your account email id"
         'USER': 'postgres',
         'PASSWORD': 'postgres',
 		
+>> Install Python 3.12.4
 
+https://www.python.org/downloads/release/python-3124/
 
 >> Install Virtual Environment
 
