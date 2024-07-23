@@ -11,9 +11,11 @@ git config --global user.email "your account email id"
 
 https://www.python.org/downloads/release/python-3124/
 
->> Install Virtual Environment
+>> Under Project folder  Install Virtual Environment
 
-pip install virtualenv 
+pip install virtualenv
+python3 -m virtualenv localPythonEnv
+
 localPythonEnv\Scripts\activate
 
 
