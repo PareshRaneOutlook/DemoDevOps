@@ -35,6 +35,7 @@
 >> From "django app" folder run
 
 	python manage.py createsuperuser  // create User : admin Password :admin_password
+ 	python manage.py migrate
 	python manage.py runserver
 
 		
