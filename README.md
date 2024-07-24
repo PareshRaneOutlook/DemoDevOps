@@ -1,4 +1,9 @@
-﻿>> install git  (https://git-scm.com/download/win)
+>>This is sample webapp which showcase ML model deploy on Django and React. Please see below given url to understand ML model use case with Random Forest Classification on IRIS dataset
+>>https://blog.devgenius.io/learning-random-forest-classification-using-iris-dataset-eeb930612e0e
+
+
+
+ >> install git  (https://git-scm.com/download/win)
 
 	git config --global user.email "your account email id"
 
