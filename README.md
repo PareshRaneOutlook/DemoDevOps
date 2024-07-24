@@ -18,11 +18,15 @@
 
 >> Under Project folder  Install Virtual Environment
 
-	pip install virtualenv
+	--On Windows
+ 	pip install virtualenv
 	python3 -m virtualenv localPythonEnv
-	
 	localPythonEnv\Scripts\activate
-
+	
+ 	--On Ubuntu
+ 	python3 -m pip install virtualenv
+	python3 -m venv localPythonEnv
+	source localPythonEnv/bin/activate
 
 >> Install Django and respective libraries from your project folder
 
