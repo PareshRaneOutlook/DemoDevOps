@@ -3,9 +3,9 @@
 	git config --global user.email "your account email id"
 
 
->> Install Postgres and cread database "predictiondb" and user  with following credentials
-        'USER': 'postgres',
-        'PASSWORD': 'postgres',
+>> Install MySQL and cread database "predictiondb" and user  with following credentials
+        'USER': 'mysql',
+        'PASSWORD': 'mysql',
 		
 >> Install Python 3.12.4
 
